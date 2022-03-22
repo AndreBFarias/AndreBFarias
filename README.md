@@ -31,7 +31,8 @@ I'm reposting old projects on this profile. 🙃
 <br> <br>
 <center>
 <table>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBFarias&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBFarias&hide=html&layout=compact&theme=buefy" />
+        </td>
         <td><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=AndreBFarias&theme=buefy"/></td>
       
     
