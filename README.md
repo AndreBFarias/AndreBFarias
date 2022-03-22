@@ -7,6 +7,7 @@
 
 I'm a recent economist graduate looking for opportunities and collabaration in projects related to Data Science and Business Intelligence.
 
+I'm reposting old projects on this profile. 🙃
 <br>
 
 - 🤝 I’m available to work remotely and in Brasilia. 
