@@ -1,17 +1,19 @@
-<p align="center">
-  <img src="URL_DO_SEU_BANNER_AQUI" >
-</p>
 
-<h1 align="center">André Farias</h1>
-<h3 align="center">Tecnomago | Arquiteto de Dados e Oráculo de IA</h3>
+
+<h1 align="center">André Farias 🧙 </h1>
+<p align="center">
+  <img src="assets/tecnomago-github.png" >
+</p>
+<h3 align="center">Tecnomago | Arquiteto de Dados e Desemaranhador de Gambiarras</h3>
 
 <p align="center">
   Transmutando o caos de dados brutos em clareza estratégica. Minha magia reside em construir pipelines de dados resilientes, modelar o futuro com algoritmos e extrair insights onde outros veem apenas ruído.
 </p>
 
 <p align="center">
-  <a href="mailto:andre.dsbf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/andre-farias-economista/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/andre-farias-economista/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wa.me/5561995748464"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:andre.dsbf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
@@ -58,7 +60,6 @@
 ---
 
 ### 📜 O Grimório de Experiências
-### 📜 O Grimório de Experiências
 
 Minha jornada me levou a forjar soluções para diversas guildas, incluindo **instituições governamentais, titãs do setor financeiro e gigantes do e-commerce**. Alguns dos meus feitos incluem:
 
@@ -74,4 +75,18 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo **in
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreBFarias&show_icons=true&theme=dracula" alt="AndreBFarias" />
+</p>
+
+---
+
+### 🔮 Forjando Alianças
+
+Minha busca por conhecimento e por desafios complexos é constante. Se você tem um projeto onde dados precisam ser transmutados em valor, um sistema que necessita de arquitetura, ou um problema que parece um quebra-cabeça arcano, estou aberto a novas alianças e colaborações.
+
+Vamos conversar? O pior que pode acontecer é sairmos desse papo com uma nova ideia.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andre-farias-economista/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wa.me/5561995748464"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:andre.dsbf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
