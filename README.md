@@ -78,7 +78,7 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
 
 Minha busca por conhecimento e por desafios complexos é constante. Se você tem um projeto onde dados precisam ser transmutados em valor, um sistema que necessita de arquitetura, ou um problema que parece um quebra-cabeça arcano, estou aberto a novas alianças e colaborações.
 
-<font color="#50FA7B">Vamos conversar?</font> O pior que pode acontecer é sairmos desse papo com uma nova ideia.
+<font color="#50FA7B"> Vamos conversar?</font> O pior que pode acontecer é sairmos desse papo com uma nova ideia.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andre-farias-economista/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
