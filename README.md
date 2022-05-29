@@ -1,4 +1,4 @@
-<h1 align="center">André Farias 🧙 </h1>
+<h1 align="center">André Farias  🧙 </h1>
 <p align="center">
   <img src="assets/tecnomago-github.png" >
 </p>
