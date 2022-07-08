@@ -63,7 +63,7 @@
 
 Minha jornada me levou a forjar soluções para diversas guildas, incluindo <font color="#BD93F9">instituições governamentais</font>, <font color="#FF79C6">Institutos de Big Data e Consultorias de Dados</font> e <font color="#8BE9FD">gigantes do e-commerce</font>. Alguns dos meus feitos incluem:
 
--   **Atuando para uma grande instituição governamental:** Integro a equipe de desenvolvimento do banco de dados unificado da educação, com foco em modelagem, integração e automação com BigQuery, dbt e Python. Assim, desenvolvendo relatórios em tempo real da educação.
+-   **Atuando para uma grande instituição governamental:** Integro a equipe de desenvolvimento do banco de dados unificado da educação, com foco em modelagem, integração e automação com BigQuery, dbt e Python.
 -   **Através de uma consultoria de dados:** Desenvolvi soluções de modelagem e otimização de performance, atuando diretamente na resolução de problemas estratégicos do cliente final.
 -   **Para um dos principais players do E-commerce nacional:** Liderei a orquestração e construção de um Data Lake fundamental para projetos de Web Analytics e mensuração de impacto de campanhas.
 -   **Em aliança com um renomado instituto de pesquisa de dados:** Desenvolvi projetos de Netnografia, NLP, análise de sentimentos e construção de pipelines de ETL para clientes de múltiplos setores.
@@ -84,7 +84,6 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
 *Estou focado em explorar as fronteiras da engenharia de dados e da interação humano-máquina. Meus estudos e desenvolvimentos atuais incluem:*
 
 * **Projeto Luna (Agente Cognitivo para Linux):** Arquitetura de um agente de IA com interface gráfica nativa para ambientes Linux. O projeto visa criar um framework de interação inteligente, integrando NLP para diálogo contextual, análise de sentimento e automação de tarefas complexas no sistema operacional. Além de ser totalmente focado na interação usuário máquina.
-* **Análise de Dados para Políticas Públicas:** Integrando uma iniciativa focada nos dados da Educação Brasileira, contribuo na modelagem e otimização de um dos mais complexos conjuntos de dados da América Latina para gerar insights de alto impacto.
 * **Mapeando Redes Complexas com Deep Learning:** Investigação de arquiteturas neurais para análise de grafos (Graph Neural Networks), com foco em modelar e extrair insights de bancos de dados de nós e redes, como as que definem relações de influência em ecossistemas digitais.
 
 ---
@@ -92,7 +91,7 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
 
 Minha busca por conhecimento e por desafios complexos é constante. Se você tem um projeto onde dados precisam ser transmutados em valor, um sistema que necessita de arquitetura, ou um problema que parece um quebra-cabeça arcano, estou aberto a novas alianças e colaborações.
 
-<font color="#50FA7B"> Vamos conversar?</font> O pior que pode acontecer é sairmos desse papo com uma nova ideia.
+<font color="#50FA7B"> Vamos conversar?</font> O pior que pode acontecer é sairmos dessa conversa com uma nova ideia.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrefariasdados/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
