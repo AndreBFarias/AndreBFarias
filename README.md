@@ -72,6 +72,7 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
 <br>
 
 markdown_content = """
+
 <div align="center">
   <table>
     <tr>
@@ -84,6 +85,7 @@ markdown_content = """
     </tr>
   </table>
 </div>
+
 """
 ---
 ### Projetos e Pesquisas Atuais (atualmente no caldeirão) 
