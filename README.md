@@ -29,7 +29,7 @@
         <li>Python</li>
         <li>SQL</li>
         <li>R</li>
-        <li>Power Shell / Bash</li>
+        <li>PowerShell / Bash</li>
         <li>VBA</li>
         <li>Machine Learning</li>
       </ul>
@@ -84,15 +84,17 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo inst
   </table>
 </div>
 
+---
 
-### Projetos e Pesquisas Atuais (atualmente no caldeirão)
+### Projetos e Pesquisas Atuais
 
 *Estou focado em explorar as fronteiras da engenharia de dados e da interação humano-máquina. Meus estudos e desenvolvimentos atuais incluem:*
 
-* **Projeto Luna (Agente Cognitivo para Linux):** Arquitetura de um agente de IA com interface gráfica nativa para ambientes Linux. O projeto visa criar um framework de interação inteligente, integrando NLP para diálogo contextual, análise de sentimento e automação de tarefas complexas no sistema operacional. Além de ser totalmente focado na interação usuário máquina.
+* **Projeto Luna (Agente Cognitivo para Linux):** Arquitetura de um agente de IA com interface gráfica nativa para ambientes Linux. O projeto visa criar um framework de interação inteligente, integrando NLP para diálogo contextual, análise de sentimento e automação de tarefas complexas no sistema operacional. Além de ser totalmente focado na interação usuário-máquina.
 * **Mapeando Redes Complexas com Deep Learning:** Investigação de arquiteturas neurais para análise de grafos (Graph Neural Networks), com foco em modelar e extrair insights de bancos de dados de nós e redes, como as que definem relações de influência em ecossistemas digitais.
 
 ---
+
 <h3>Forjando Alianças</h3>
 
 Minha busca por conhecimento e por desafios complexos é constante. Se você tem um projeto onde dados precisam ser transmutados em valor, um sistema que necessita de arquitetura, ou um problema que parece um quebra-cabeça arcano, estou aberto a novas alianças e colaborações.
