@@ -1,40 +1,77 @@
+<p align="center">
+  <img src="URL_DO_SEU_BANNER_AQUI" >
+</p>
 
-<img src="https://github.com/AndreBFarias/AndreBFarias/blob/main/cover.png" >
+<h1 align="center">André Farias</h1>
+<h3 align="center">Tecnomago | Arquiteto de Dados e Oráculo de IA</h3>
 
+<p align="center">
+  Transmutando o caos de dados brutos em clareza estratégica. Minha magia reside em construir pipelines de dados resilientes, modelar o futuro com algoritmos e extrair insights onde outros veem apenas ruído.
+</p>
 
+<p align="center">
+  <a href="mailto:andre.dsbf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/andre-farias-economista/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-## Hi, buddy! 👋
+---
 
-I'm a recent economist graduate looking for opportunities and collabaration in projects related to Data Science and Business Intelligence.
+### 🔮 As Ferramentas Arcanas (Tech Stack)
 
-I'm reposting old projects on this profile. 🙃
-<br>
-
-- 🤝 I’m available to work remotely and in Brasilia. 
-- 👨‍💻 In DS I've experience with: Python, SQL, VBA, Machine Learning Models and R.
-- 🔭 In BI I've experience with: Storytelling, PowerBI, DataStudio and countless API.
-- 👨‍🎓 Graduated from Economic Sciences in 2022.
-- ✍️ I worked for: ITAÚ, IBPAD and BRB.
-- ☕ Coffee and 🍺 beer lover.
-
-🏠 I live in Brasília, Brazil.
-<br> <br>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="left"/>](https://www.linkedin.com/in/andre-farias-economista//) 
-
-
-<br>
-<br>
-
-<div align="left"/> ☝️Click here if you want to contact me! </div>
-
-<br> <br>
-<center>
 <table>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBFarias&hide=html&layout=compact&theme=buefy" />
-        </td>
-        <td><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=AndreBFarias&theme=buefy"/></td>
-      
-    
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Linguagens & Aprendizado</strong><br>
+      <ul>
+        <li>Python</li>
+        <li>SQL</li>
+        <li>R</li>
+        <li>Power Shell / Bash</li>
+        <li>VBA</li>
+        <li>Machine Learning</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Engenharia & Orquestração de Dados</strong><br>
+      <ul>
+        <li>Spark / PySpark</li>
+        <li>dbt</li>
+        <li>Airflow / Composer</li>
+        <li>Hadoop</li>
+        <li>Scala</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Cloud & Bancos de Dados</strong><br>
+      <ul>
+        <li>Google Cloud (GCP)</li>
+        <li>Vertex AI</li>
+        <li>BigQuery</li>
+        <li>Azure</li>
+        <li>Databricks</li>
+        <li>MySQL / MongoDB</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-</center>  
+
+---
+
+### 📜 O Grimório de Experiências
+### 📜 O Grimório de Experiências
+
+Minha jornada me levou a forjar soluções para diversas guildas, incluindo **instituições governamentais, titãs do setor financeiro e gigantes do e-commerce**. Alguns dos meus feitos incluem:
+
+-   **Atuando para uma grande instituição governamental (Atual):** Integro a equipe de desenvolvimento do banco de dados unificado da educação, com foco em modelagem, integração e automação com BigQuery, dbt e Python. Assim, desenvolvendo relatórios em tempo real da educação.
+-   **Através de uma consultoria de dados de elite:** Desenvolvi soluções de modelagem e otimização de performance, atuando diretamente na resolução de problemas estratégicos do cliente final.
+-   **Para um dos principais players do E-commerce nacional:** Liderei a orquestração e construção de um Data Lake fundamental para projetos de Web Analytics e mensuração de impacto de campanhas.
+-   **Em aliança com um renomado instituto de pesquisa de dados:** Desenvolvi projetos de Netnografia, NLP, análise de sentimentos e construção de pipelines de ETL para clientes de múltiplos setores.
+<br>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBFarias&hide=html&layout=compact&theme=dracula" alt="AndreBFarias" />
+</p>
+
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreBFarias&show_icons=true&theme=dracula" alt="AndreBFarias" />
+</p>
