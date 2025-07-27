@@ -3,7 +3,7 @@
   <img src="assets/tecnomago-github.png" >
 </p>
 <h3 align="center"><font color="#BD93F9">Tecnomago</font> | <font color="#8BE9FD">Arquiteto de Dados</font> e <font color="#FF79C6">Desemaranhador de Gambiarras</font></h3>
-
+ 
 <p align="center">
   Transmutando o <font color="#FFB86C">caos de dados brutos</font> em <font color="#50FA7B">clareza estratégica</font>. Minha magia reside em construir pipelines de dados resilientes, modelar o futuro com algoritmos e extrair insights onde outros veem apenas ruído.
 </p>
@@ -16,8 +16,9 @@
 
 ---
 
-### <font color="#F8F8F2">🔮 As Ferramentas Arcanas (Tech Stack)</font>
+<h3><font color="#F8F8F2">🔮 As Ferramentas Arcanas (Tech Stack)</font></h3>
 
+<div align="center">
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -54,27 +55,32 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
-### <font color="#F8F8F2">📜 O Grimório de Experiências</font>
+<h3><font color="#F8F8F2">📜 O Grimório de Experiências</font></h3>
 
 Minha jornada me levou a forjar soluções para diversas guildas, incluindo <font color="#BD93F9">instituições governamentais</font>, <font color="#FF79C6">Institutos de Big Data e Consultorias de Dados</font> e <font color="#8BE9FD">gigantes do e-commerce</font>. Alguns dos meus feitos incluem:
 
 -   **Atuando para uma grande instituição governamental:** Integro a equipe de desenvolvimento do banco de dados unificado da educação, com foco em modelagem, integração e automação com BigQuery, dbt e Python. Assim, desenvolvendo relatórios em tempo real da educação.
 -   **Através de uma consultoria de dados:** Desenvolvi soluções de modelagem e otimização de performance, atuando diretamente na resolução de problemas estratégicos do cliente final.
--   **Para um dos principais players do E-commerce nacional:** Lidererei a orquestração e construção de um Data Lake fundamental para projetos de Web Analytics e mensuração de impacto de campanhas.
+-   **Para um dos principais players do E-commerce nacional:** Liderei a orquestração e construção de um Data Lake fundamental para projetos de Web Analytics e mensuração de impacto de campanhas.
 -   **Em aliança com um renomado instituto de pesquisa de dados:** Desenvolvi projetos de Netnografia, NLP, análise de sentimentos e construção de pipelines de ETL para clientes de múltiplos setores.
 <br>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBFarias&hide=html&layout=compact&theme=dracula" alt="AndreBFarias" width="49%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreBFarias&show_icons=true&theme=dracula" alt="AndreBFarias" width="49%"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBFarias&hide=html&theme=dracula" alt="AndreBFarias" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=AndreBFarias&show_icons=true&theme=dracula" alt="AndreBFarias" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### <font color="#F8F8F2">🔮 Forjando Alianças</font>
+<h3><font color="#F8F8F2">🔮 Forjando Alianças</font></h3>
 
 Minha busca por conhecimento e por desafios complexos é constante. Se você tem um projeto onde dados precisam ser transmutados em valor, um sistema que necessita de arquitetura, ou um problema que parece um quebra-cabeça arcano, estou aberto a novas alianças e colaborações.
 
