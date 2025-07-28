@@ -79,7 +79,17 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
 </div>
 
 ---
+### 🧙‍♂️ Projetos e Pesquisas Atuais (atualmente no caldeirão) 
 
+*Estou focado em explorar as fronteiras da engenharia de dados e da interação humano-máquina. Meus estudos e desenvolvimentos atuais incluem:*
+
+* **Projeto Luna (Agente Cognitivo para Linux):** Arquitetura de um agente de IA com interface gráfica nativa para ambientes Linux. O projeto visa criar um framework de interação inteligente, integrando NLP para diálogo contextual, análise de sentimento e automação de tarefas complexas no sistema operacional. Além de ser totalmente focado na interação usuário máquina.
+* **Análise de Dados para Políticas Públicas:** Integrando uma iniciativa focada nos dados da Educação Brasileira, contribuo na modelagem e otimização de um dos mais complexos conjuntos de dados da América Latina para gerar insights de alto impacto.
+* **Mapeando Redes Complexas com Deep Learning:** Investigação de arquiteturas neurais para análise de grafos (Graph Neural Networks), com foco em modelar e extrair insights de bancos de dados de nós e redes, como as que definem relações de influência em ecossistemas digitais.
+
+*Novas ideias estão sempre em desenvolvimento...*
+
+---
 <h3><font color="#F8F8F2">🔮 Forjando Alianças</font></h3>
 
 Minha busca por conhecimento e por desafios complexos é constante. Se você tem um projeto onde dados precisam ser transmutados em valor, um sistema que necessita de arquitetura, ou um problema que parece um quebra-cabeça arcano, estou aberto a novas alianças e colaborações.
