@@ -73,7 +73,7 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBFarias&hide=html&theme=dracula&cache_seconds=3&v=12345&count_private=true" alt="AndreBFarias" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=AndreBFarias&show_icons=true&theme=dracula" alt="AndreBFarias&cache_seconds=3&v=12345&count_private=true" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=AndreBFarias&show_icons=true&theme=dracula&cache_seconds=3&v=12345&count_private=true" alt="AndreBFarias" /></td>
     </tr>
   </table>
 </div>
