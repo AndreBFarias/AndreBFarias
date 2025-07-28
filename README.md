@@ -2,7 +2,7 @@
 <p align="center">
   <img src="assets/tecnomago-github.png" >
 </p>
-<h3 align="center"><font color="#BD93F9">Tecnomago</font> | <font color="#8BE9FD">Arquiteto de Dados</font> e <font color="#FF79C6">Desemaranhador de Gambiarras</font></h3>
+<h3 align="center"><font color="#BD93F9">Tecnomago</font> | <font color="#8BE9FD">Arquiteto de Dados</font> e <font color="#FF79C6"> Especialista de Dados </font></h3>
  
 <p align="center">
   Transmutando o <font color="#FFB86C">caos de dados brutos</font> em <font color="#50FA7B">clareza estratégica</font>. Minha magia reside em construir pipelines de dados resilientes, modelar o futuro com algoritmos e extrair insights onde outros veem apenas ruído.
