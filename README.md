@@ -87,8 +87,6 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
 * **Análise de Dados para Políticas Públicas:** Integrando uma iniciativa focada nos dados da Educação Brasileira, contribuo na modelagem e otimização de um dos mais complexos conjuntos de dados da América Latina para gerar insights de alto impacto.
 * **Mapeando Redes Complexas com Deep Learning:** Investigação de arquiteturas neurais para análise de grafos (Graph Neural Networks), com foco em modelar e extrair insights de bancos de dados de nós e redes, como as que definem relações de influência em ecossistemas digitais.
 
-*Novas ideias estão sempre em desenvolvimento...*
-
 ---
 <h3><font color="#F8F8F2">🔮 Forjando Alianças</font></h3>
 
