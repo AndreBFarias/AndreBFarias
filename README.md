@@ -16,7 +16,7 @@
 
 ---
 
-<h3><font color="#F8F8F2">🔮 As Ferramentas Arcanas (Tech Stack)</font></h3>
+<h3><font color="#F8F8F2">As Ferramentas Arcanas (Tech Stack)</font></h3>
 
 <div align="center">
 <table>
@@ -59,7 +59,7 @@
 
 ---
 
-<h3><font color="#F8F8F2">📜 O Grimório de Experiências</font></h3>
+<h3><font color="#F8F8F2">O Grimório de Experiências</font></h3>
 
 Minha jornada me levou a forjar soluções para diversas guildas, incluindo <font color="#BD93F9">instituições governamentais</font>, <font color="#FF79C6">Institutos de Big Data e Consultorias de Dados</font> e <font color="#8BE9FD">gigantes do e-commerce</font>. Alguns dos meus feitos incluem:
 
@@ -79,7 +79,7 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
 </div>
 
 ---
-### 🧙‍♂️ Projetos e Pesquisas Atuais (atualmente no caldeirão) 
+### Projetos e Pesquisas Atuais (atualmente no caldeirão) 
 
 *Estou focado em explorar as fronteiras da engenharia de dados e da interação humano-máquina. Meus estudos e desenvolvimentos atuais incluem:*
 
@@ -87,7 +87,7 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
 * **Mapeando Redes Complexas com Deep Learning:** Investigação de arquiteturas neurais para análise de grafos (Graph Neural Networks), com foco em modelar e extrair insights de bancos de dados de nós e redes, como as que definem relações de influência em ecossistemas digitais.
 
 ---
-<h3><font color="#F8F8F2">🔮 Forjando Alianças</font></h3>
+<h3><font color="#F8F8F2"> Forjando Alianças</font></h3>
 
 Minha busca por conhecimento e por desafios complexos é constante. Se você tem um projeto onde dados precisam ser transmutados em valor, um sistema que necessita de arquitetura, ou um problema que parece um quebra-cabeça arcano, estou aberto a novas alianças e colaborações.
 
