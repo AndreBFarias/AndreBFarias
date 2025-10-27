@@ -1,6 +1,9 @@
 <h1 align="center">André Farias 🧙‍♂️</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/AndreBFarias/AndreBFarias/main/assets/tecnomago-github.png?v=1.0.0" > 
+ 
+<img src="https://github.com/AndreBFarias/AndreBFarias/blob/main/assets/tecnomago-github.png&cache_seconds=7200&v=654321" > 
+
+
 </p>
 <h3 align="center"><font color="#BD93F9">Tecnomago</font> | <font color="#8BE9FD">Arquiteto de Dados</font> e <font color="#FF79C6"> Especialista de Dados </font></h3>
  
