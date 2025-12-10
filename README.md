@@ -78,7 +78,7 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndreBFarias&theme=dracula" alt="Top Languages" />
       </td>
       <td valign="top">
-        <img src="https://streak-stats.demolab.com?user=AndreBFarias&theme=dracula&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreBFarias&theme=dracula" alt="General Stats" />
       </td>
     </tr>
   </table>
