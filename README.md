@@ -71,24 +71,20 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
 -   **Em aliança com um renomado instituto de pesquisa de dados:** Desenvolvi projetos de Netnografia, NLP, análise de sentimentos e construção de pipelines de ETL para clientes de múltiplos setores.
 <br>
 
-
-
 <div align="center">
   <table>
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBFarias&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndreBFarias&theme=dracula" alt="Top Languages" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBFarias&theme=dracula&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=AndreBFarias&theme=dracula&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 
-
----
 ### Projetos e Pesquisas Atuais (atualmente no caldeirão) 
 
 *Estou focado em explorar as fronteiras da engenharia de dados e da interação humano-máquina. Meus estudos e desenvolvimentos atuais incluem:*
