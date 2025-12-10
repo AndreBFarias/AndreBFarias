@@ -71,7 +71,7 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
 -   **Em aliança com um renomado instituto de pesquisa de dados:** Desenvolvi projetos de Netnografia, NLP, análise de sentimentos e construção de pipelines de ETL para clientes de múltiplos setores.
 <br>
 
-markdown_content = """
+
 
 <div align="center">
   <table>
@@ -86,7 +86,7 @@ markdown_content = """
   </table>
 </div>
 
-"""
+
 
 ---
 ### Projetos e Pesquisas Atuais (atualmente no caldeirão) 
