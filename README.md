@@ -71,15 +71,20 @@ Minha jornada me levou a forjar soluções para diversas guildas, incluindo <fon
 -   **Em aliança com um renomado instituto de pesquisa de dados:** Desenvolvi projetos de Netnografia, NLP, análise de sentimentos e construção de pipelines de ETL para clientes de múltiplos setores.
 <br>
 
+markdown_content = """
 <div align="center">
   <table>
     <tr>
-      <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBFarias&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" /></td>
-      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=AndreBFarias&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" /></td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBFarias&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBFarias&theme=dracula&hide_border=true" alt="GitHub Streak" />
+      </td>
     </tr>
   </table>
 </div>
-
+"""
 ---
 ### Projetos e Pesquisas Atuais (atualmente no caldeirão) 
 
